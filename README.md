@@ -49,6 +49,7 @@ Run:
   python3 chatbot_svr.py
 
 Entry a chat loop:
+```
 Query >well 
  > i love you guys
  > i love you guys
@@ -61,6 +62,7 @@ Query >what is the big news
  > i think the whole same thing is insane
  > latest and the first one
  > the cyber is the best
+ ```
 <!---
 #### Cornell Moive
 
