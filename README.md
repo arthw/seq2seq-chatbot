@@ -41,8 +41,6 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > trump needs to be president
 
 ```
-<!---
-#### Cornell Moive
 
 ### Chatbot Server
 It's a chat loop server to talk with you.
@@ -63,6 +61,8 @@ Query >what is the big news
  > i think the whole same thing is insane
  > latest and the first one
  > the cyber is the best
+<!---
+#### Cornell Moive
 
 ```
 
