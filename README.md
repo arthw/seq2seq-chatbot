@@ -44,6 +44,25 @@ Query > donald trump won last nights presidential debate according to snap onlin
 <!---
 #### Cornell Moive
 
+### Chatbot Server
+It's a chat loop server to talk with you.
+Depend on the output of training result: n.npz
+Run:
+  python3 chatbot_svr.py
+
+Entry a chat loop:
+Query >well 
+ > i love you guys
+ > i love you guys
+ > thank you so much
+ > thank you so much for the support
+ > i love this show
+Query >what is the big news
+ > latest in the last time
+ > i think its a good idea but its not even close to the end of the season
+ > i think the whole same thing is insane
+ > latest and the first one
+ > the cyber is the best
 
 ```
 
