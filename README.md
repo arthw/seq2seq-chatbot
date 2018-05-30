@@ -44,11 +44,14 @@ Query > donald trump won last nights presidential debate according to snap onlin
 
 ### Chatbot Server
 It's a chat loop server to talk with you.
-Depend on the output of training result: n.npz
-Run:
-  python3 chatbot_svr.py
 
-Entry a chat loop:
+Depend on the output of training result: n.npz
+
+- Run:
+  python3 chatbot_svr.py
+  
+- Entry a chat loop:
+
 ```
 Query >well 
  > i love you guys
